@@ -18,6 +18,9 @@ A RESTful API for managing a to-do list with basic CRUD functionality, built usi
    git clone <repository-url>
    cd todo-api
 
+## Install dependencies
+- npm install
+
 ## Start server
 - node index.js
 
