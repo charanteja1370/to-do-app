@@ -18,3 +18,8 @@ A RESTful API for managing a to-do list with basic CRUD functionality, built usi
    git clone <repository-url>
    cd todo-api
 
+## Start server
+- node index.js
+
+## Access API endpoints 
+- at http://localhost:5000.
